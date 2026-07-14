@@ -13,7 +13,7 @@ const app = express(); // 👈 FIXED: Initialized the missing 'app' variable!
 
 // 👇 FIXED: Positioned CORS right at the top so it intercepts requests immediately
 app.use(cors({
-  origin: "http://localhost:5173", 
+  origin: "https://three-interview-client.onrender.com/", 
   credentials: true,                
   methods: ["GET", "POST", "PUT", "DELETE"],
   allowedHeaders: ["Content-Type", "Authorization"]
