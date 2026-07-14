@@ -1,0 +1,13 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd server && npm run dev"
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
