@@ -10,7 +10,7 @@ import InterviewHistory from './pages/interviewHistory'; // FIXED: added missing
 
 // FIXED: Added missing imports for these components
 import Pricing from './pages/Pricing.jsx'; 
-import InterviewReport from './pages/InterviewReport.jsx'; 
+import InterviewReport from './pages/interviewReport.jsx'; 
 
 export const ServerUrl = "https://three-interview.onrender.com"
 
