@@ -10,7 +10,7 @@ import {
 } from "react-icons/fa";
 import axios from "axios";
 
-const ServerUrl = "http://localhost:8000";
+const ServerUrl = "https://three-interview.onrender.com";
 
 // --- Global Page Particle Background Effect Component ---
 function PageParticles() {
