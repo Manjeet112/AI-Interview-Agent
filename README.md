@@ -1,3 +1,4 @@
+<img width="1420" height="622" alt="Screenshot 2026-07-15 160314" src="https://github.com/user-attachments/assets/f8ae7b2a-12f3-4912-998f-2f1deb687be5" />
 ## InterviewIQ.AI
 
 An AI-powered mock interview platform that helps users prepare for technical and HR interviews through intelligent voice-based conversations,
@@ -265,7 +266,8 @@ GitHub: https://github.com/Manjeet112
 LinkedIn: *(https://www.linkedin.com/in/manjeet-kaur-310522328/)*
 
 ---
-<img width="1515" height="857" alt="Screenshot 2026-07-15 153203" src="https://github.com/user-attachments/assets/883bc570-c88e-43cf-8928-a63e44ede799" />
+<img width="1515" height="857" alt="Screenshot 2026-07-15 153203" src="https://github.com/user-attachments/assets/883bc570-c88e-43cf-8928-a63e44ede799" /><img width="1420" height="622" alt="Screenshot 2026-07-15 160314" src="https://github.com/user-attachments/assets/ba6d563d-1dc2-4e92-9d2a-f1702b967513" />
+
 
 
 
