@@ -8,7 +8,7 @@ import { useNavigate } from 'react-router-dom';
 import axios from 'axios'; 
 import Auth from '../pages/Auth.jsx'; // 👈 Imported as Auth
 import { setUserData } from '../redux/userSlice';
-
+axios.defaults.withCredentials = true;
 const ServerUrl = "https://three-interview.onrender.com"; 
 
 function Navbar() {
