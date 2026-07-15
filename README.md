@@ -4,7 +4,7 @@
 An AI-powered mock interview platform that helps users prepare for technical and HR interviews through intelligent voice-based conversations,
 adaptive questioning, and detailed performance analytics.
 
-Live Demo:** https://three-interview-client.onrender.com
+Live Demo: https://three-interview-client.onrender.com
 
 
 ## Overview
