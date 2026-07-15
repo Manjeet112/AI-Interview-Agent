@@ -7,6 +7,7 @@ import { setUserData } from './redux/userSlice.js'
 import { useDispatch } from "react-redux";
 import InterviewPage from './pages/interviewPage';
 import InterviewHistory from './pages/interviewHistory'; // FIXED: added missing forward slash
+axios.defaults.withCredentials = true;
 
 // FIXED: Added missing imports for these components
 import Pricing from './pages/Pricing.jsx'; 
