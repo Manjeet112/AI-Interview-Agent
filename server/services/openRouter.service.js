@@ -17,7 +17,7 @@ export const askAi = async (messages) => { // 1. Fixed parameter name to 'messag
                     "Authorization": `Bearer ${process.env.OPENROUTER_API_KEY}`,
                     "Content-Type": "application/json",
                     // 3. Added compulsory OpenRouter headers
-                    "HTTP-Referer": "http://localhost:8000", 
+                    "HTTP-Referer": "https://three-interview-client.onrender.com", 
                     "X-Title": "AI Interview Platform"       
                 }
             }
