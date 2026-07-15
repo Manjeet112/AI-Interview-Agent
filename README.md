@@ -1,4 +1,4 @@
-<img width="1420" height="622" alt="Screenshot 2026-07-15 160314" src="https://github.com/user-attachments/assets/f8ae7b2a-12f3-4912-998f-2f1deb687be5" />
+
 ## InterviewIQ.AI
 
 An AI-powered mock interview platform that helps users prepare for technical and HR interviews through intelligent voice-based conversations,
