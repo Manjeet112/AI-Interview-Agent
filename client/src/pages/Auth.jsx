@@ -10,7 +10,7 @@ import { setUserData } from '../redux/userSlice';
 import axios from "axios";
 
 // Ensure this matches your running backend server port (e.g., 8000, 5000, etc.)
-const ServerUrl = "https://three-interview-client.onrender.com";
+const ServerUrl = "https://three-interview.onrender.com";
 
 function Auth({ isModel = false, onClose }) {
   const dispatch = useDispatch();
