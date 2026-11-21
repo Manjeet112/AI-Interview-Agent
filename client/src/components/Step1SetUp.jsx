@@ -10,7 +10,7 @@ import {
 } from "react-icons/fa";
 import axios from "axios";
 
-const ServerUrl = "https://three-interview.onrender.com";
+const ServerUrl = "https://ai-interview-agent-4-xqbh.onrender.com";
 
 // --- Global Page Particle Background Effect Component ---
 function PageParticles() {
