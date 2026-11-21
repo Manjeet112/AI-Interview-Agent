@@ -9,7 +9,7 @@ import axios from 'axios';
 import Auth from '../pages/Auth.jsx'; // 👈 Imported as Auth
 import { setUserData } from '../redux/userSlice';
 axios.defaults.withCredentials = true;
-const ServerUrl = "https://three-interview.onrender.com"; 
+const ServerUrl = "https://ai-interview-agent-4-xqbh.onrender.com"; 
 
 function Navbar() {
   const { userData } = useSelector((state) => state.user);
