@@ -13,7 +13,7 @@ axios.defaults.withCredentials = true;
 import Pricing from './pages/Pricing.jsx'; 
 import InterviewReport from './pages/interviewReport.jsx'; 
 
-export const ServerUrl = "https://three-interview.onrender.com"
+export const ServerUrl = "https://ai-interview-agent-4-xqbh.onrender.com"
 
 function App() {
   const dispatch = useDispatch()
